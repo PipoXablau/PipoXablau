@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./assets/banner.jpeg" width="100%" />
+</p>
+
 # Davi Lima
 
 <p align="center">
@@ -40,8 +45,4 @@ Além da tecnologia, amo moda e desenho. Gosto de utilizar ambos como formas de 
 
 <p align="center">
   <sub>創造と表現 — Criação e expressão.</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/banner.png" width="100%" />
 </p>
