@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/banner.jpeg" width="600" />
+  <img src="./assets/banner.png" width="600" />
 </p>
 
 # Davi Lima
