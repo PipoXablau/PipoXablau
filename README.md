@@ -8,3 +8,6 @@ Busco sempre criar algo novo, mesmo que alguns projetos acabem ficando inacabado
 
 Além da tecnologia, amo moda e desenho. Gosto de utilizar ambos como formas de expressão e identidade. Também adoro escutar música, principalmente artistas como <strong>Frank Ocean</strong>, e, às vezes, gosto de aproveitar meu tempo livre jogando osu!
 
+##
+<i class="devicon-css3-plain"></i>
+          
