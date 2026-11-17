@@ -10,6 +10,8 @@ Além da tecnologia, amo moda e desenho. Gosto de utilizar ambos como formas de 
 
 ##
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"     
+<i class="devicon-css3-plain"></i>
+          
           
           
