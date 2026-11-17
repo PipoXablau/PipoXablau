@@ -40,7 +40,14 @@ Além da tecnologia, amo moda e desenho. Gosto de utilizar ambos como formas de 
 </p>
 
 ---
-### 04. Projetos em destaque — 制作物
+
+
+
+<p align="center">
+  <sub>創造と表現 — Criação e expressão.</sub>
+</p>
+
+### 03. Projetos em destaque — 制作物
 
 <table>
   <tr>
@@ -51,8 +58,3 @@ Além da tecnologia, amo moda e desenho. Gosto de utilizar ambos como formas de 
       <a href="https://github.com/PipoXablau/Tela_Cadastro_Amazing.git">Visualizar projeto ↗</a>
     </td
 </table>
-
-
-<p align="center">
-  <sub>創造と表現 — Criação e expressão.</sub>
-</p>
