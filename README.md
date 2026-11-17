@@ -46,15 +46,3 @@ Além da tecnologia, amo moda e desenho. Gosto de utilizar ambos como formas de 
 <p align="center">
   <sub>創造と表現 — Criação e expressão.</sub>
 </p>
-
-### 03. Projetos em destaque — 制作物
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>01. Tela de cadastro Amazing</h3>
-      <p>Amazing é uma instituição fictícia que criei para desenvolver uma tela de cadastro simples, utilizando apenas HTML, CSS e PHP. As informações cadastradas são armazenadas em um arquivo de texto (.txt).</p>
-      <p><code>HTML</code> <code>CSS</code> <code>PHP</code></p>
-      <a href="https://github.com/PipoXablau/Tela_Cadastro_Amazing.git">Visualizar projeto ↗</a>
-    </td
-</table>
