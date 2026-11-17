@@ -1,16 +1,20 @@
-# Davi Lima
+<h1 align="center">Davi Lima</h1>
 
 <p align="center">
-  <i>好奇心を形にする</i>
+  <sub>好奇心を形にする</sub>
   <br/>
-  <sub>Dar forma à curiosidade.</sub>
+  <sup>TURN CURIOSITY INTO SOMETHING.</sup>
+</p>
+
+<p align="center">
+  <code>EST. 2007</code> &nbsp;·&nbsp; <code>SENAI-SP</code> &nbsp;·&nbsp; <code>PERSONAL ARCHIVE</code>
 </p>
 
 ---
 
-### 01. Sobre mim — 自己紹介
+### 01. 自己紹介 — SOBRE MIM
 
-*`Estudante de Desenvolvimento de Sistemas | SENAI-SP`*
+*Estudante de Desenvolvimento de Sistemas | SENAI-SP*
 
 Meu nome é Davi Lima, tenho 19 anos e faço o curso de TDS1 no SENAI-SP. Gosto bastante da área de tecnologia e de colocar um pouquinho de mim em cada projeto que faço. Acredito que isso cria um vínculo a mais com aquilo que estamos desenvolvendo e acrescenta personalidade a cada criação.
 
@@ -20,29 +24,32 @@ Além da tecnologia, amo moda e desenho. Gosto de utilizar ambos como formas de 
 
 ---
 
-<p align="center">
-  好奇心 ・ 創造 ・ 表現
-</p>
-
----
-
-
-### 02. Tecnologias — 技術
+### 02. 技術 — TECNOLOGIA
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="38"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/css/FFFFFF" width="38"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="38"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="38"/>
+  <img src="https://cdn.simpleicons.org/html5/BFC0C0" width="38" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/BFC0C0" width="38" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/BFC0C0" width="38" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/BFC0C0" width="38" alt="Python"/>
 </p>
 
 ---
 
+### 04. 興味 — INTERESSES
 
+`TECNOLOGIA` &nbsp; `MODA` &nbsp; `ARTE` &nbsp; `MUSICA` &nbsp; `JOGOS`
+
+---
 
 <p align="center">
-  <sub>創造と表現 — Criação e expressão.</sub>
+  <sub>探求 ・ 創造 ・ 表現</sub>
+  <br/>
+  <sup>EXPLORE. CREATE. EXPRESS.</sup>
+</p>
+
+<p align="center">
+  <sub>DAV I LIMA — PERSONAL ARCHIVE © 2026</sub>
 </p>
